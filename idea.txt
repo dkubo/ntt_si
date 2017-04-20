@@ -1,0 +1,11 @@
+○ Classification task (4 value)
+	・ Convert from Paragraph(and summary) to Vector
+		1. Doc2Vec
+		2. CNN
+	・ Calculate similarity between paragraph and summary
+		1. Cosine sim
+		2. 
+
+○ Pre-processing of Data
+	・ 意見の特定
+	・ 不用文の削除
